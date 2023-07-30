@@ -1,1 +1,1 @@
-its a calculator using python , having tkinter use.
+its a calculator using python 
